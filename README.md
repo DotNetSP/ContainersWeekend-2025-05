@@ -5,7 +5,7 @@ Organizadores:
 - **Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
 - **Atila Olivi (SENAI)**
 
-Número de participantes: **65 pessoas**
+Número de participantes: **36 pessoas**
 
 Apresentação realizada durante o evento:
 **Docker e Containerização: uma visão geral**
