@@ -28,3 +28,12 @@ Conteúdos utilizados durante a apresentação:
 
 ![Banner do evento](img/banner.png)
 
+![Público](img/cw-10.jpg)
+
+![Renato palestrando](img/cw-02.jpg)
+
+![Renato palestrando](img/cw-07.jpg)
+
+![Renato palestrando](img/cw-06.jpg)
+
+![Renato palestrando](img/cw-09.jpg)
